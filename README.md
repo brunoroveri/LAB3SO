@@ -21,6 +21,7 @@ LUCAS FARIAS - 32250193
 
 
  - INSTRUÇÕES:
+
 Use o compilador gcc para compilar o código. O código utiliza a biblioteca pthread para threads, então é necessário incluir a flag -lpthread:
 
 gcc nome_do_arquivo.c -o nome_do_programa -lpthread
