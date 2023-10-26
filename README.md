@@ -4,6 +4,7 @@ BRUNO ROVERI - 32231911
 
 LUCAS FARIAS - 32250193
 
+
  - CONFIGURAÇÕES GERAIS
 ![image](https://github.com/brunoroveri/LAB3SO/assets/142548195/9d0afec0-33d7-4848-a8bd-d814a82d434a)
 
@@ -19,6 +20,7 @@ LUCAS FARIAS - 32250193
 
  - IMPLEMENTAÇÃO NO GIT HUB
 ![image](https://github.com/brunoroveri/LAB3SO/assets/142548195/26843119-2f65-4a74-b805-939ecf4bdc67)
+
 
 
  - INSTRUÇÕES:
