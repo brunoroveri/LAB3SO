@@ -32,3 +32,8 @@ gcc nome_do_arquivo.c -o nome_do_programa -lpthread
 Para execução do programa, utilizar um número inteiro de threads como argumento, Por exemplo:
 
 ./nome_do_arquivo 3
+
+EXECUÇÃO DO CÓDIGO:
+
+![image](https://github.com/brunoroveri/LAB3SO/assets/142548195/8c250334-736d-4c74-994b-fc97b8a74eb3)
+
